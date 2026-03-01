@@ -1,0 +1,8 @@
+quiz.html
+.src.html
+.env
+.env.*
+*.key
+credentials.*
+node_modules/
+.DS_Store
