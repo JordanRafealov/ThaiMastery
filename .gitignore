@@ -1,8 +1,11 @@
 quiz.html
 .src.html
+.staticrypt.json
+content/
+*.key
 .env
 .env.*
-*.key
 credentials.*
+subject*.js
 node_modules/
 .DS_Store
